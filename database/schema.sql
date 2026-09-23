@@ -1,0 +1,1 @@
+-- Placeholder SQLite schema definition for CineTrack.
